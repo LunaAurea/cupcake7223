@@ -7,7 +7,7 @@ bot.on('ready', () =>{
     console.log('Je suis prêt !')
     //Défini son status (online) et son jeu (changer les couleurs !)
     bot.user.setStatus('online')
-    bot.user.setActivity('changer les couleurs !', {type: "PLAYING"})
+    bot.user.setActivity('niquer des mères!', {type: "PLAYING"})
     //Interval = répétition
     setInterval(() =>{
         //pour chaque serveur
